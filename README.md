@@ -1,3 +1,3 @@
 # FeatWS
 
-More details in [https://bancodobrasil.github.io/featws/]
+More details in https://bancodobrasil.github.io/featws/
