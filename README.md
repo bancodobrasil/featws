@@ -13,3 +13,6 @@ More details in https://bancodobrasil.github.io/featws/
 - Resiliência
 - Agnóstico
 - OpenSource
+
+## Arquiterura
+![Arquitetura](FeatWS - Arquitetura(1).png)
