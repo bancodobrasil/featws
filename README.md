@@ -14,5 +14,6 @@ More details in https://bancodobrasil.github.io/featws/
 - Agnóstico
 - OpenSource
 
-## Arquiterura
-![Arquitetura](FeatWS - Arquitetura(1).png)
+## Arquitetura
+
+![Arquitetura](featws-arquitetura.png)
