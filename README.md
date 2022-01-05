@@ -6,7 +6,7 @@ More details in https://bancodobrasil.github.io/featws/
 
 - Liberdade para Devs e Gestores
 - Agilidade
-- "Core" pouco versionadp
+- "Core" pouco versionado
 - Cloud Native
 - MultiCloud
 - Performance
