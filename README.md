@@ -18,7 +18,7 @@ More details in https://bancodobrasil.github.io/featws/
 
 ![Arquitetura](featws-arquitetura.png)
 
-## Serviços
+## Repositórios
 
 ### [featws-transpiler](https://github.com/bancodobrasil/featws-transpiler) 
 
