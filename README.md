@@ -24,7 +24,7 @@ More details in https://bancodobrasil.github.io/featws/
 
 [TODO] Lorem ipsum dolor
 
-### [featws-ruller](https://github.com/bancodobrasil/featws-ruller)) 
+### [featws-ruller](https://github.com/bancodobrasil/featws-ruller)
 
 [TODO] Lorem ipsum dolor
 
