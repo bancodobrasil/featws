@@ -28,11 +28,11 @@ More details in https://bancodobrasil.github.io/featws/
 
 [TODO] Lorem ipsum dolor
 
-### [featws-ruller](https://github.com/bancodobrasil/featws-resolver-bridge)
+### [featws-resolver-bridge](https://github.com/bancodobrasil/featws-resolver-bridge)
 
 [TODO] Lorem ipsum dolor
 
-### [featws-ruller](https://github.com/bancodobrasil/featws-resolver-adapter-go)
+### [featws-resolver-adapter-go](https://github.com/bancodobrasil/featws-resolver-adapter-go)
 
 [TODO] Lorem ipsum dolor
 
