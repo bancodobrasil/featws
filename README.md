@@ -2,41 +2,57 @@
 
 More details in https://bancodobrasil.github.io/featws/
 
-## Premissas
+## Premises
 
-- Liberdade para Devs e Gestores
-- Agilidade
-- "Core" pouco versionado
+- Freedom to Developers and Managers
+- Agility
+- Low versioned Core
 - Cloud Native
 - MultiCloud
-- Performance
-- Resiliência
-- Agnóstico
+- Performace
+- Resilience
+- Agnostic
 - OpenSource
 
-## Arquitetura
+## Architecture
 
 ![Arquitetura](featws-arquitetura.png)
 
-## Repositórios
+## Repositories
 
 ### [featws-transpiler](https://github.com/bancodobrasil/featws-transpiler) 
 
-[TODO] Lorem ipsum dolor
+This project is resposable for transpile the rulesheet from the web client.
 
 ### [featws-ruller](https://github.com/bancodobrasil/featws-ruller)
 
-[TODO] Lorem ipsum dolor
+After the rulesheet has been transpiled, we now have to evaluate it, and that's what featws-ruller does.
 
 ### [featws-resolver-bridge](https://github.com/bancodobrasil/featws-resolver-bridge)
 
-[TODO] Lorem ipsum dolor
+A "bridge" to access external resolvers that will be needed to resolve the rulesheet
 
 ### [featws-resolver-adapter-go](https://github.com/bancodobrasil/featws-resolver-adapter-go)
 
-[TODO] Lorem ipsum dolor
+A library that the resolver needs to use to connect to the above project, the featws-resolver-bridge
 
 ### [featws-language-vscode](https://github.com/bancodobrasil/featws-language-vscode) 
+
+The VScode extension of the featws language based on .ini files, .featws is used to define the conditions of the rules.
+
+### [featws-api](https://github.com/bancodobrasil/featws-api) 
+
+This API is responsible for talking directly to the UI, doing CRUD operations on the rulesheets.
+
+### [featws-ui](https://github.com/bancodobrasil/featws-ui) 
+
+The featws UI, which will consume the featwsAPI data and show the client
+
+### [js-featws](https://github.com/bancodobrasil/js-featws) 
+
+A FeatWS parser/serializer in JavaScript, makes .featws files readable by javascript
+
+### [grlc](https://github.com/bancodobrasil/grlc) 
 
 [TODO] Lorem ipsum dolor
 
@@ -44,19 +60,5 @@ More details in https://bancodobrasil.github.io/featws/
 
 [TODO] Lorem ipsum dolor
 
-### [featws-backoffice-api](https://github.com/bancodobrasil/featws-backoffice-api) 
 
-[TODO] Lorem ipsum dolor
-
-### [featws-backoffice-frontend](https://github.com/bancodobrasil/featws-backoffice-frontend) 
-
-[TODO] Lorem ipsum dolor
-
-### [grlc](https://github.com/bancodobrasil/grlc) 
-
-[TODO] Lorem ipsum dolor
-
-### [js-featws](https://github.com/bancodobrasil/js-featws) 
-
-[TODO] Lorem ipsum dolor
 
