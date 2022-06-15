@@ -46,7 +46,7 @@ This API is responsible for talking directly to the UI, doing CRUD operations on
 
 ### [featws-ui](https://github.com/bancodobrasil/featws-ui) 
 
-The featws UI, which will consume the featwsAPI data and show the client
+The featws UI, which will consume the featws-API data and show the client
 
 ### [js-featws](https://github.com/bancodobrasil/js-featws) 
 
@@ -54,11 +54,11 @@ A FeatWS parser/serializer in JavaScript, makes .featws files readable by javasc
 
 ### [grlc](https://github.com/bancodobrasil/grlc) 
 
-[TODO] Lorem ipsum dolor
+The .grl extension format generator
 
 ### [featws.tmbundle](https://github.com/bancodobrasil/featws.tmbundle) 
 
-[TODO] Lorem ipsum dolor
+The .featws language description
 
 
 
