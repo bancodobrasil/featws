@@ -30,11 +30,11 @@ Após a folha de regra ter sido traduzida, agora temos que avaliá-la, e é isso
 
 ### [featws-resolver-bridge](https://github.com/bancodobrasil/featws-resolver-bridge)
 
-É uma ponte para acessar resolvedores externos que serão necessários para resolver a folha de regras.
+É uma ponte para acessar resolvers externos que serão necessários para resolver a folha de regras.
 
 ### [featws-resolver-adapter-go](https://github.com/bancodobrasil/featws-resolver-adapter-go)
 
-Uma biblioteca que o resolvedor precisa usar para se conectar ao projeto acima, o featws-resolver-bridge.
+Uma biblioteca que o resolvers precisa usar para se conectar ao projeto acima, o featws-resolver-bridge.
 
 ### [featws-language-vscode](https://github.com/bancodobrasil/featws-language-vscode) 
 
