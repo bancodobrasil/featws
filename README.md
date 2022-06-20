@@ -1,4 +1,4 @@
-# FeatWS
+# FeatWS [![About_de](https://github.com/yammadev/flag-icons/blob/master/png/BR.png?raw=true)](https://github.com/bancodobrasil/featws/blob/main/README_ptbr.md) 
 
 More details in https://bancodobrasil.github.io/featws/
 
@@ -30,11 +30,11 @@ After the rulesheet has been transpiled, we now have to evaluate it, and that's 
 
 ### [featws-resolver-bridge](https://github.com/bancodobrasil/featws-resolver-bridge)
 
-A "bridge" to access external resolvers that will be needed to resolve the rulesheet
+A "bridge" to access external resolvers that will be needed to resolve the rulesheet.
 
 ### [featws-resolver-adapter-go](https://github.com/bancodobrasil/featws-resolver-adapter-go)
 
-A library that the resolver needs to use to connect to the above project, the featws-resolver-bridge
+A library that the resolver needs to use to connect to the above project, the featws-resolver-bridge.
 
 ### [featws-language-vscode](https://github.com/bancodobrasil/featws-language-vscode) 
 
@@ -46,19 +46,19 @@ This API is responsible for talking directly to the UI, doing CRUD operations on
 
 ### [featws-ui](https://github.com/bancodobrasil/featws-ui) 
 
-The featws UI, which will consume the featws-API data and show the client
+The featws UI, which will consume the featws-API data and show the client.
 
 ### [js-featws](https://github.com/bancodobrasil/js-featws) 
 
-A FeatWS parser/serializer in JavaScript, makes .featws files readable by javascript
+A FeatWS parser/serializer in JavaScript, makes .featws files readable by javascript.
 
 ### [grlc](https://github.com/bancodobrasil/grlc) 
 
-The .grl extension format generator
+The .grl extension format generator.
 
 ### [featws.tmbundle](https://github.com/bancodobrasil/featws.tmbundle) 
 
-The .featws language description
+The .featws language description.
 
 
 
